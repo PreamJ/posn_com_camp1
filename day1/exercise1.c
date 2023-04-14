@@ -5,4 +5,5 @@ int main(){
 	base = 14;
 	area = 0.5*base*height;
 	printf("Triangle area is %d", area);
+	printf("debug");
 }
