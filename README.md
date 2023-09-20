@@ -1,6 +1,7 @@
 # posn_com_camp1 
 ## สอวน.คอมพิวเตอร์ ค่าย 1 ศูนย์โรงเรียนสามเสนวิทยาลัย
 This is the C code I have written during my academic year 2022 while taking the POSN computer class (camp1).
+Author: Pream Junnatasna
 
 ## เริ่มต้นเขียนภาษา C
 ### โครงสร้างโปรแกรม
